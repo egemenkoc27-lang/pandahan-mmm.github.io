@@ -116,13 +116,12 @@ body {
     transform: translateY(-2px); /* Hafif yukarı zıplama efekti */
     }
 
-/* En alttaki küçük yuvarlak ikonlar */
+/* Alt taraftaki Mail, Patreon vb. İkonlar */
 .icon-btn {
-    color: #444444; /* Küçük ikonların rengi */
+    color: rgba(255, 255, 255, 0.7);
     font-size: 20px;
-    margin: 0 10px;
     text-decoration: none;
-    transition: color 0.3s ease;
+    transition: all 0.3s ease;
 }
 
 .icon-btn:hover {

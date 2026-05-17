@@ -41,13 +41,13 @@
     text-transform: uppercase;
 }
 
-.bio {
-    color: #666666; /* "TÜM SOSYAL MEDYA HESAPLARIM" yazısı */
+ .bio {
+    color: #111111; /* Yazıyı tam belirgin koyu füme/siyah yaptık */
     font-size: 12px;
     letter-spacing: 1px;
     margin-bottom: 25px;
+    font-weight: bold; /* Biraz da kalınlaştırdık ki net okunsun */
 }
-
 /* Profil Fotoğrafı */
 .profile-pic {
     width: 110px;
